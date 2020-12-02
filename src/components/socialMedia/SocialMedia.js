@@ -78,6 +78,14 @@ export default function socialMedia() {
       :
       null}
 
+      {socialMediaLinks.MyWebsite ? 
+      (<a href={socialMediaLinks.MyWebsite} className="icon-button MyWebsite" target="_blank">
+        <i className="fas fa-browser"></i>
+        <span></span>
+      </a>)
+      :
+      null}
+
     </div>
   );
 }

@@ -7,23 +7,21 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  username: "Halim",
+  title: "Hello, I'm Halim",
+  subTitle: emoji("I'm a passionate Cybersecurity engineer with wide IT technical knowledge in infrastructure and software, I'm working as a cybersecurity compliance."),
+  resumeLink: "https://halim.website"
 };
 
-// Your Social Media Link
+// Your Social Media Links
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta"
+  github: "https://github.com/halim",
+  linkedin: "https://www.linkedin.com/in/halim93/",
+  gmail: "Ah.Hesham93@gmail.com",
+  facebook: "https://www.facebook.com/halim93",
+  MyWebsite: "https://halim.websites",
   // Instagram and Twitter are also supported in the links!
 };
 
